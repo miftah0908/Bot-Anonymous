@@ -236,6 +236,7 @@ webpmux -version
 - [Saweria](https://saweria.co/miftahganz)
 - [SociaBuzz](https://sociabuzz.com/miftahganz/tribe)
 - [Linktree](https://linktr.ee/miftahbotz)
+- [Qris All Pay](https://telegra.ph/file/be286c967baac1546bd95.jpg)
 ----------
 # Thanks to
 <a href="https://github.com/TianBot1"><img src="https://github.com/TianBot1.png?size=100" width="100" height="100"></a> | [![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftah0908) 
