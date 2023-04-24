@@ -101,6 +101,11 @@ nama file nya session.json
 
 # Command Bot
 
+<details>
+  <summary>COMMAND</summary>
+	
+Command Bot nich
+```ts
 ## Menu ANONYMOUS
 ```
 /start (memulai anonymous)
@@ -125,6 +130,7 @@ nama file nya session.json
 /tovid (mengubah stiker bergerak/gif menjadi video)
 ```
 
+</details>
 	
 # Settings
  
