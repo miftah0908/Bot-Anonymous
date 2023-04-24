@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/miftah0908/Bot-Anonymous/blob/2/media/menunya.jpg" alt="FENZO BOT" width="350"/>
+<img src="https://github.com/miftah0908/Bot-Anonymous/media/menunya.jpg" alt="BOT ANONYMOUS" width="350"/>
 
  <p align="center">
     <a href="https://miftah0908.github.io">
@@ -66,9 +66,8 @@ nama file nya session.json
 ```
 
 # Ambil Session 
-```
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@zeeoneofc/Session-Md-By-Zeeoneofc?v=1)
-
+```
 # klik Run warna hijau 
 # Kalo udah klik di samping show code
 # Terus scan
@@ -85,7 +84,7 @@ nama file nya session.json
  
  ## ```Whatsapp``` <a href="https://wa.me/6285171226069"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285171226069) 
-[![GROUP OFFICIAL 1](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LIp9xhnsCfUFv1ml8OiLt9) 
+[![GROUP OFFICIAL 1](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ESDqEK4gErl5WekDwPY95Z) 
 [![GROUP OFFICIAL 2](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Lwle2k5X0ay9AygssZXrxL) 
 ---------
 
@@ -102,7 +101,6 @@ nama file nya session.json
 <img src="https://telegra.ph/file/6abe329c6d04df0496e27.jpg" alt="FENZO BOT" width="350"/>
  
  ## Setting
-</details>
   <summary>SETTING</summary>
 	
 You can edit owner and other in `'./config.json'`
@@ -117,7 +115,6 @@ You can edit owner and other in `'./config.json'`
   "link": "https://youtube.com/c/MiftahAzzam" //Channel Yt, Kalo gk ada biarin
 }
 ```
-<details>
 
 # Instalasi
 ## ```RUN ON Heroku```
@@ -210,7 +207,7 @@ Choose your repo
 - [Linktree](https://linktr.ee/miftahbotz)
 	
 # Thanks to
-<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftah0908) 
+<a href="https://github.com/tIObOT1"><img src="https://github.com/TioBot1.png?size=100" width="100" height="100"></a> | [![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftah0908) 
 ---|---
 [Christian ID](https://github.com/TioBot1)  | [Miftah GanzZ](https://github.com/miftah09008)
 Base | Constributor |
