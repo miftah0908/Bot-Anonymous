@@ -4,7 +4,7 @@
  <p align="center">
     <a href="https://miftah0908.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Miftah+GanzZ+🌐"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Anonymous+Bot+Whatsapp+🎭"
             alt="Miftah GanzZ"
         />
     </a>
@@ -118,10 +118,11 @@ You can edit owner and other in `'./config.json'`
 ```
 
 </details>
-----------
+
 # Instalasi
 ----------
 ## ```RUN ON Heroku```
+	
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/miftah0908/Bot-Anonymous)
 
 | BuildPack | LINK |
@@ -129,7 +130,7 @@ You can edit owner and other in `'./config.json'`
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-----------
+-------
 ## FOR REPLIT USER
 
 [![Run on Repl.it](https://repl.it/badge/github/miftah0908/Bot-Anonymous)](https://repl.it/github/miftah0908/Bot-Anonymous)
