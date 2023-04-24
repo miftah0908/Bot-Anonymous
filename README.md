@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/miftah0908/Bot-Anonymous/main/media/menunya.jpg" alt="BOT ANONYMOUS" width="350"/>
+<img src="https://raw.githubusercontent.com/miftah0908/Bot-Anonymous/main/media/menunya.jpg" alt="BOT ANONYMOUS" width="400"/>
 
  <p align="center">
     <a href="https://miftah0908.github.io">
@@ -134,7 +134,7 @@ nama file nya session.json
 You can edit owner and other in `'./config.json'`
 ```ts
 {
-  "ownerNumber": ["628***@s.whatsapp.net"], //Nomo owner bot
+  "ownerNumber": ["628***@s.whatsapp.net"], //Nomor owner bot
   "ownerName": ["Miftah GanzZ"], // Nama Owner
   "botName": "Anonymous Bot", // Nama Bot
   "sessionName": "session", // Biarin aja
@@ -180,8 +180,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/miftah0908/Fenzo-v2.git
-$ cd Fenzo-v2
+$ git clone https://github.com/miftah0908/Bot-Anonymous.git
+$ cd Bot-Anonymous
 $ npm i
 $ npm start
 ```
