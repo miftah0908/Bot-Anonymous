@@ -192,6 +192,12 @@ yarn
 ```
  ----------
  ## FOR WINDOWS/VPS/RDP USER 💻
+	
+<details>
+  <summary>INSTALASI</summary>
+	
+instalation fot windows/vps/rdp
+```ts
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
@@ -234,6 +240,9 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```cmd
 webpmux -version
 ```
+	
+</details>
+	
 ----------
 ## Donate
 - [Saweria](https://saweria.co/miftahganz)
