@@ -100,14 +100,14 @@ nama file nya session.json
 <img src="https://telegra.ph/file/6abe329c6d04df0496e27.jpg" alt="FENZO BOT" width="350"/>
 
 ## Command Bot
-#Menu ANONYMOUS
+# Menu ANONYMOUS
 ```
 /start (memulai anonymous)
 /anonymous (mode anonymous)
 /next (cari pasangan lain)
 /stop (memberhentikan chat)
 ```
-#Main Menu
+# Main Menu
 ```
 /menu (menampilkan menu)
 /owner (menampilkan owner bot)
@@ -116,7 +116,7 @@ nama file nya session.json
 /exif (gk tau :v)
 /sendsession (mengirim session kepada owner)
 ```
-#CONVERTER/TOOLS
+# CONVERTER/TOOLS
 ```
 /sticker (membuat stiker)
 /toimg (mengubah stiker jadi foto)
