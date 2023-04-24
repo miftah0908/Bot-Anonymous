@@ -75,13 +75,14 @@ nama file nya session.json
 ```
 ----------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285171226069">
+  <a href="https://wa.me/6285171226069?text=Assalamualaikum+Bang">
     <img align="left" alt="SIEGRIN | Whatsapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@miftahbotz">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
  
- ## ```Whatsapp``` <a href="https://wa.me/6285171226069"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+ ## ```Group Whatsapp```
+	
 [![GROUP OFFICIAL 1](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ESDqEK4gErl5WekDwPY95Z) 
 [![GROUP OFFICIAL 2](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Lwle2k5X0ay9AygssZXrxL) 
 ---------
@@ -97,8 +98,14 @@ nama file nya session.json
 ----------
 # Features
 <img src="https://telegra.ph/file/6abe329c6d04df0496e27.jpg" alt="FENZO BOT" width="350"/>
+
+## Command Bot
+```
+/menu (menampilkan menu)
+/
+```
 	
- ## Settings
+## Settings
  
 <details>
   <summary>SETTING</summary>
