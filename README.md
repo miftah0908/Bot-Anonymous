@@ -98,7 +98,6 @@ nama file nya session.json
 ----------
 # Features
 <img src="https://telegra.ph/file/6abe329c6d04df0496e27.jpg" alt="FENZO BOT" width="350"/>
-----------
 	
  ## Settings
  
