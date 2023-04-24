@@ -100,12 +100,8 @@ nama file nya session.json
 <img src="https://telegra.ph/file/6abe329c6d04df0496e27.jpg" alt="FENZO BOT" width="350"/>
 
 # Command Bot
-
 <details>
-  <summary>COMMAND</summary>
-	
-Command Bot nich
-```ts
+<summary> <b>Menu bot</b></summary><br/>
 ## Menu ANONYMOUS
 ```
 /start (memulai anonymous)
@@ -129,7 +125,6 @@ Command Bot nich
 /toimg (mengubah stiker jadi foto)
 /tovid (mengubah stiker bergerak/gif menjadi video)
 ```
-
 </details>
 	
 # Settings
