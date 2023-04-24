@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/miftah0908/Bot-Anonymous/media/menunya.jpg" alt="BOT ANONYMOUS" width="350"/>
+<img src="https://raw.githubusercontent.com/miftah0908/Bot-Anonymous/main/media/menunya.jpg" alt="BOT ANONYMOUS" width="350"/>
 
  <p align="center">
     <a href="https://miftah0908.github.io">
@@ -73,8 +73,7 @@ nama file nya session.json
 # Terus scan
 # Upload session nya, jangan lupa hapus dulu kalo ada
 ```
-
-
+----------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6285171226069">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
@@ -91,16 +90,18 @@ nama file nya session.json
   ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
 * Info Lebih Lanjut, Chat [owner](https://wa.me/6285171226069)
-
+----------
 # Requirements
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
-
+----------
 # Features
 <img src="https://telegra.ph/file/6abe329c6d04df0496e27.jpg" alt="FENZO BOT" width="350"/>
- 
+----------
  ## Setting
+ 
+<details>
   <summary>SETTING</summary>
 	
 You can edit owner and other in `'./config.json'`
@@ -116,7 +117,10 @@ You can edit owner and other in `'./config.json'`
 }
 ```
 
+</details>
+----------
 # Instalasi
+----------
 ## ```RUN ON Heroku```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/miftah0908/Bot-Anonymous)
 
@@ -125,10 +129,22 @@ You can edit owner and other in `'./config.json'`
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-# RUN ON REPLIT	
+----------
+## FOR REPLIT USER
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MikeyKun8/Bot-Anonymous#index.js?lite=1&outputonly=1#.replit)
-	
+[![Run on Repl.it](https://repl.it/badge/github/miftah0908/Bot-Anonymous)](https://repl.it/github/miftah0908/Bot-Anonymous)
+
+---------
+## FOR RAILWAY USER 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=miftah0908)
+
+----------
+## FOR OKTETO USER 
+
+[![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
+
+----------
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
@@ -146,8 +162,7 @@ $ npm start
 pkg install yarn
 yarn
 ```
- 
- 
+ ----------
  ## FOR WINDOWS/VPS/RDP USER 💻
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
@@ -161,7 +176,7 @@ cd Fenzo-v2
 npm install
 npm start
 ```
-
+----------
 ## Installing the FFmpeg for Windows
 * Unduh salah satu versi FFmpeg yang tersedia dengan mengklik [di sini](https://www.gyan.dev/ffmpeg/builds/).
 * Extract file ke `C:\` path.
@@ -176,8 +191,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```cmd
 > ffmpeg -version
 ```
-	
-	
+----------
 ## Installing the libwebp for Windows
 * Unduh salah satu versi libwebp yang tersedia dengan mengklik [di sini](https://developers.google.com/speed/webp/download).
 * Extract file ke `C:\` path.
@@ -192,22 +206,14 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```cmd
 webpmux -version
 ```
-## FOR OKTETO
-
-* Okteto [`Click Here`](https://okteto.com)
-
-```bash
-Login with your github
-Click Launch Dev Environment
-Choose your repo
-```
+----------
 ## Donate
 - [Saweria](https://saweria.co/miftahganz)
 - [SociaBuzz](https://sociabuzz.com/miftahganz/tribe)
 - [Linktree](https://linktr.ee/miftahbotz)
-	
+----------
 # Thanks to
-<a href="https://github.com/tIObOT1"><img src="https://github.com/TioBot1.png?size=100" width="100" height="100"></a> | [![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftah0908) 
+<a href="https://github.com/TioBot1"><img src="https://github.com/TioBot1.png?size=100" width="100" height="100"></a> | [![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftah0908) 
 ---|---
 [Christian ID](https://github.com/TioBot1)  | [Miftah GanzZ](https://github.com/miftah09008)
 Base | Constributor |
