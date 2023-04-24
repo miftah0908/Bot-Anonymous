@@ -14,7 +14,7 @@
 </p>
 <p align="center">
 <a href="#">
-<img title="Bot-Anonymous Whatsapp" src="https://img.shields.io/badge/FENZO BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+<img title="Bot-Anonymous Whatsapp" src="https://img.shields.io/badge/Bot-Anonymous-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 </a>
   </p>
 
@@ -24,15 +24,15 @@
 <img title="Followers" src="https://img.shields.io/github/followers/miftah0908?color=red&style=flat-square">
 </a>
 
-<a href="https://github.com/miftah0908/Fenzo-v2/stargazers/">
+<a href="https://github.com/miftah0908/Bot-Anonymous/stargazers/">
 <img title="Stars" src="https://img.shields.io/github/stars/miftah0908/Bot-Anonymous?color=blue&style=flat-square">
 </a
 >
-<a href="https://github.com/miftah0908/Fenzo-v2/network/members">
+<a href="https://github.com/miftah0908/Bot-Anonymous/network/members">
 <img title="Forks" src="https://img.shields.io/github/forks/miftah0908/Bot-Anonymous?color=red&style=flat-square">
 </a>
 
-<a href="https://github.com/miftah0908/Fenzo-v2/watchers">
+<a href="https://github.com/miftah0908/Bot-Anonymous/watchers">
 <img title="Watching" src="https://img.shields.io/github/watchers/miftah0908/Bot-Anonymous?label=Watchers&color=blue&style=flat-square">
 </a>
 
@@ -40,7 +40,7 @@
 <img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
 </a>
 
-<a href="https://github.com/miftah0908/Fenzo-v2/">
+<a href="https://github.com/miftah0908/Bot-Anonymous/">
 <img title="Size" src="https://img.shields.io/github/repo-size/miftah0908/Bot-Anonymous?style=flat-square&color=green">
 </a>
 <a href="https://hits.seeyoufarm.com">
@@ -214,7 +214,7 @@ webpmux -version
 - [Linktree](https://linktr.ee/miftahbotz)
 ----------
 # Thanks to
-<a href="https://github.com/TioBot1"><img src="https://github.com/TioBot1.png?size=100" width="100" height="100"></a> | [![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftah0908) 
+<a href="https://github.com/TianBot1"><img src="https://github.com/TianBot1.png?size=100" width="100" height="100"></a> | [![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftah0908) 
 ---|---
-[Christian ID](https://github.com/TioBot1)  | [Miftah GanzZ](https://github.com/miftah09008)
+[Christian ID](https://github.com/TianBot1)  | [Miftah GanzZ](https://github.com/miftah09008)
 Base | Constributor |
